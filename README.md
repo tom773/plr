@@ -17,8 +17,8 @@ windowrulev2 = float,title:^(pm)$
 ## Installation
 ```
 git clone git@github.com:tom773/plr.git
-cargo build -o plr
+cargo build
 ```
 ## Usage
-- Bind a keypress or a button in waybar to the binary generated. Will make this more streamlined later.
+- Bind a keypress or a button in waybar to the binary generated (target/debug). Will make this more streamlined later.
 - Click the desired button.
